@@ -1986,6 +1986,7 @@ h1 {
   background-image: url('../images/pattern-bg.png');
   background-position: 0 0;
   background-size: auto;
+  overflow-x: hidden;
 }
 
 .slider-2 {
